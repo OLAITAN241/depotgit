@@ -1,0 +1,5 @@
+a) La différence entre les commandes "git pull" et "git fetch" 
+La commande "git pull" permet de vérifier si de nouveaux modification (télécharge les dernier modification à partir du dépôt distant) ont été fait du côté serveur tandis que "git fetch" permet de télécharger les dernieres modification à partir du dépôt distants et les enregristres dans le dépôt local et ne fusionne pas les modifications avec les fichiers locaux.
+b) Pour annuler les modifications locales non validées dans git on utilise la commande " git checkout "
+c) Pour supprimer une branche distante dans Git on utilise la commande "git push" avec l'option 'Delect' suivi du nom de la branche qu'il faut supprimer 
+d) Pour voir l'historique des modifications pour un fichier spécifique dans Git il faut utiliser la commande " git log --oneline" 
